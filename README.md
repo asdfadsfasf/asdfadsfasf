@@ -1,4 +1,4 @@
-# 👋 Nice to see you. 
+# 👋  Nice to see you. 👋
 
 Welcome to my page! 
 
